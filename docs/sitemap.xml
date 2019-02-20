@@ -23,7 +23,26 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog/categories/about-me/</loc>
+    <lastmod>2019-02-15T17:58:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog/categories/blog/</loc>
+    <lastmod>2019-02-16T23:20:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog/categories/</loc>
+    <lastmod>2019-02-15T17:58:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog/categories/links/</loc>
+    <lastmod>2019-02-15T17:58:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,6 +54,12 @@
   
   <url>
     <loc>https://blank71.github.io/blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog/categories/test/</loc>
+    <lastmod>2019-02-16T17:19:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   

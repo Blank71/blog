@@ -6,9 +6,38 @@
     <description>Recent content in Categories on blank71 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Fri, 15 Feb 2019 17:58:18 +0900</lastBuildDate>
     
         <atom:link href="https://blank71.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>About Me</title>
+      <link>https://blank71.github.io/blog/categories/about-me/</link>
+      <pubDate>Fri, 15 Feb 2019 17:58:18 +0900</pubDate>
+      
+      <guid>https://blank71.github.io/blog/categories/about-me/</guid>
+      <description></description>
+    </item><item>
+      <title>Blog</title>
+      <link>https://blank71.github.io/blog/categories/blog/</link>
+      <pubDate>Sat, 16 Feb 2019 23:20:00 +0900</pubDate>
+      
+      <guid>https://blank71.github.io/blog/categories/blog/</guid>
+      <description></description>
+    </item><item>
+      <title>Links</title>
+      <link>https://blank71.github.io/blog/categories/links/</link>
+      <pubDate>Fri, 15 Feb 2019 17:58:57 +0900</pubDate>
+      
+      <guid>https://blank71.github.io/blog/categories/links/</guid>
+      <description></description>
+    </item><item>
+      <title>Test</title>
+      <link>https://blank71.github.io/blog/categories/test/</link>
+      <pubDate>Sat, 16 Feb 2019 17:19:22 +0900</pubDate>
+      
+      <guid>https://blank71.github.io/blog/categories/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

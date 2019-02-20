@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links - blank71 blog</title>
+    <link>https://blank71.github.io/blog/categories/links/</link>
+    <description>Recent content in Links on blank71 blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 15 Feb 2019 17:58:57 +0900</lastBuildDate>
+    
+        <atom:link href="https://blank71.github.io/blog/categories/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
