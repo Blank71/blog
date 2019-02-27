@@ -6,11 +6,18 @@
     <description>Recent content in Blog on blank71 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Feb 2019 23:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 11:57:23 +0900</lastBuildDate>
     
         <atom:link href="https://blank71.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mastdonとは何か</title>
+      <link>https://blank71.github.io/blog/posts/005/</link>
+      <pubDate>Tue, 26 Feb 2019 11:57:23 +0900</pubDate>
+      
+      <guid>https://blank71.github.io/blog/posts/005/</guid>
+      <description>&lt;!--Mastdon--&gt;</description>
+    </item><item>
       <title>What did you do</title>
       <link>https://blank71.github.io/blog/posts/004/</link>
       <pubDate>Sat, 16 Feb 2019 23:20:00 +0900</pubDate>
