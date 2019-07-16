@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blank71 blog</title>
@@ -6,11 +5,18 @@
     <description>Recent content on blank71 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 26 Feb 2019 11:57:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 17:47:39 +0900</lastBuildDate>
     
         <atom:link href="https://blank71.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SNSと思考の変化(Mastodonと分散SNS)</title>
+      <link>https://blank71.github.io/blog/posts/006/</link>
+      <pubDate>Mon, 15 Jul 2019 17:47:39 +0900</pubDate>
+      
+      <guid>https://blank71.github.io/blog/posts/006/</guid>
+      <description>SNSと思考の変化(Mastodonと分散SNS) 僕はおそらく情報中毒者だ。それは単に現状からの逃避であり、楽であるからだろう。何も考えず、</description>
+    </item><item>
       <title>Mastdonとは何か</title>
       <link>https://blank71.github.io/blog/posts/005/</link>
       <pubDate>Tue, 26 Feb 2019 11:57:23 +0900</pubDate>
